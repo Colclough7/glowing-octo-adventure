@@ -57,7 +57,10 @@ width: 150px;
   font-size: 30px;
   text-align: right;
 }
-
+.currency input::placeholder{
+  color:black;
+  text-align: center;
+}
 .swap-rate-container {
   display: flex;
   align-items: center;
